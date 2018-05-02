@@ -3,15 +3,11 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/gulsen/Desktop/Come342Project/src/entity/ConceptNote.java</file>
-            <file>file:/C:/Users/gulsen/Desktop/Come342Project/src/control/CreateConcept.java</file>
-            <file>file:/C:/Users/gulsen/Desktop/Come342Project/src/boundary/AddNewStaffMemberUI.java</file>
             <file>file:/C:/Users/gulsen/Desktop/Come342Project/src/boundary/CreateConceptUI.java</file>
             <file>file:/C:/Users/gulsen/Desktop/Come342Project/src/entity/StaffMember.java</file>
-            <file>file:/C:/Users/gulsen/Desktop/Come342Project/src/control/AddNewCampaign.java</file>
-            <file>file:/C:/Users/gulsen/Desktop/Come342Project/src/entity/Client.java</file>
+            <file>file:/C:/Users/gulsen/Desktop/Come342Project/src/boundary/AddNewClientUI.java</file>
+            <file>file:/C:/Users/gulsen/Desktop/Come342Project/src/Come342Project.java</file>
             <file>file:/C:/Users/gulsen/Desktop/Come342Project/src/boundary/AddNewCampaignUI.java</file>
-            <file>file:/C:/Users/gulsen/Desktop/Come342Project/src/entity/Campaign.java</file>
         </group>
     </open-files>
 </project-private>

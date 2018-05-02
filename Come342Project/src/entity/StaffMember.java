@@ -64,7 +64,7 @@ public class StaffMember {
             List<StaffMember> staffL = StaffMember.staffL; 
 		if(staffL.size() != 0) { 
  			for(int i=0; i< staffL.size(); i++) { 
- 				System.out.println(String.valueOf(staffL.get(i).getStaffNo()) +" - "+ staffL.get(i).getStaffName() + "notlar" + conceptL.get(i).getconceptID() ); 
+ 				System.out.println(String.valueOf(staffL.get(i).getStaffNo()) +" - "+ staffL.get(i).getStaffName() ); 
 			} 
  		} 
                 else { 

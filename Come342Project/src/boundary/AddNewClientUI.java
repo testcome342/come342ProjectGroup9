@@ -17,7 +17,7 @@ public class AddNewClientUI {
     public AddNewClientUI(){
     
         Client.getClients();
-        //Client.dondur();
+       
         startClientInterface();
     
     }

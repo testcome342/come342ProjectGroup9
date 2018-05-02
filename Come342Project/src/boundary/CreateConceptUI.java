@@ -16,7 +16,7 @@ public class CreateConceptUI {
  	} 
 
     public CreateConceptUI(){
-    ConceptNote.getConceptNote();
+    StaffMember.getStaffMember();
     startConceptInterface();
       
     }

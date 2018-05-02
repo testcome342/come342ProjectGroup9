@@ -101,16 +101,15 @@ public class Client {
             c1.addNewCampaign(cmg);
             clientL.add(c1);
             campaigns.add(cmg);
-             Client c2=new Client(2,"afra@gmail","argela2","istanbul","afrakose");
+            Client c2=new Client(2,"basak@gmail","argela2","istanbul","basakturan");
             Campaign cmg1=new Campaign("argela_indirim2","23.04.2018","2.05.2018","1000");
             c2.addNewCampaign(cmg1);
             clientL.add(c2);
             campaigns.add(cmg1);
               List<Client> clientL = Client.clientL; 
-		if(clientL.size() != 0) { 
+		if(Client.clientL.size() != 0) { 
  			for(int i=0; i< clientL.size(); i++) { 
- 				System.out.println(String.valueOf(clientL.get(i).getClientID()) +" - "+ clientL.get(i).getCompanyName() +  
-						" (Campaigns: " + clientL.get(i).getCampaigns().size() + ")"); 
+ 				System.out.println((clientL.get(i).getClientID()) +")"+ clientL.get(i).getContactName() ); 
 			} 
  		} 
                 else { 
